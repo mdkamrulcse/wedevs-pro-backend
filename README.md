@@ -1,6 +1,6 @@
 ## Products CRUD Oprations with Laravel and JWT Authentication
 
-This is an API with CRUD options with Laravel JWT authentication.
+This is an API with CRUD oprations with Laravel JWT authentication.
 
 
 ## Installation
