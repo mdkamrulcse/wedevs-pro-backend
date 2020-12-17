@@ -11,6 +11,7 @@ This is an API with CRUD oprations with Laravel JWT authentication.
 - run command: php artisan migrate
 - run command: php artisan db:seed
 - run command: php artisan serve
+
 Done!!!
 
 
